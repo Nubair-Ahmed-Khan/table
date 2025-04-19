@@ -1,0 +1,44 @@
+
+h1{
+    text-align: center;
+}
+
+table{
+width: 70%;
+margin-left: 180px;
+margin-top: 10px;
+font-size: 18px;
+
+}
+
+tr, th,td{
+    padding: 5px;
+    text-align: left;
+
+}
+
+table, tr th{
+    border: 1px solid black;
+    
+}
+
+table, tr td{
+    border: 1px solid black;
+border-collapse:collapse;
+}
+
+.head{
+    background-color: gray;
+}
+
+.head:hover{
+    background-color: gray;
+}
+
+.data{
+    background-color: skyblue;
+}
+
+tr:hover{
+background-color: chocolate;
+}
